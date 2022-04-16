@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/netsim_test.dir/src/factory.cpp.o"
+  "CMakeFiles/netsim_test.dir/src/factory.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/src/helpers.cpp.o"
+  "CMakeFiles/netsim_test.dir/src/helpers.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/src/nodes.cpp.o"
+  "CMakeFiles/netsim_test.dir/src/nodes.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/src/package.cpp.o"
+  "CMakeFiles/netsim_test.dir/src/package.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/src/reports.cpp.o"
+  "CMakeFiles/netsim_test.dir/src/reports.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/src/simulation.cpp.o"
+  "CMakeFiles/netsim_test.dir/src/simulation.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/src/storage_types.cpp.o"
+  "CMakeFiles/netsim_test.dir/src/storage_types.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/test/test/main_gtest.cpp.o"
+  "CMakeFiles/netsim_test.dir/test/test/main_gtest.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/test/test/nodes_test.cpp.o"
+  "CMakeFiles/netsim_test.dir/test/test/nodes_test.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/test/test/test_Factory.cpp.o"
+  "CMakeFiles/netsim_test.dir/test/test/test_Factory.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/test/test/test_factory_io.cpp.o"
+  "CMakeFiles/netsim_test.dir/test/test/test_factory_io.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/test/test/test_nodes.cpp.o"
+  "CMakeFiles/netsim_test.dir/test/test/test_nodes.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/test/test/test_package.cpp.o"
+  "CMakeFiles/netsim_test.dir/test/test/test_package.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/test/test/test_reports.cpp.o"
+  "CMakeFiles/netsim_test.dir/test/test/test_reports.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/test/test/test_simulate.cpp.o"
+  "CMakeFiles/netsim_test.dir/test/test/test_simulate.cpp.o.d"
+  "CMakeFiles/netsim_test.dir/test/test/test_storage_types.cpp.o"
+  "CMakeFiles/netsim_test.dir/test/test/test_storage_types.cpp.o.d"
+  "libnetsim_test.dll.a"
+  "netsim_test.exe"
+  "netsim_test.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/netsim_test.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
