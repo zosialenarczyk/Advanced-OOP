@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="net_simulation" targetName="netsim_test" />
+      <config projectName="net_simulation" targetName="netsim" />
+      <config projectName="net_simulation" targetName="gtest" />
+      <config projectName="net_simulation" targetName="gmock_main" />
+      <config projectName="net_simulation" targetName="gmock" />
+      <config projectName="net_simulation" targetName="gtest_main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35ca6575-1b98-4426-9b65-70e5689e9a1f" name="Default Changelist" comment="Dodanie sortowania  w  &quot;save_factory_structure&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/reports.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/reports.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reports.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/reports.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1mtL7VYypzcpTzufsySF5Acmz7I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Google Test.netsim_test">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="netsim_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="net_simulation" TARGET_NAME="netsim_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="net_simulation" RUN_TARGET_NAME="netsim_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="net_simulation" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="net_simulation" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="net_simulation" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="net_simulation" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="netsim" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="net_simulation" TARGET_NAME="netsim" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="net_simulation" RUN_TARGET_NAME="netsim">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.netsim" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="Google Test.netsim_test" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35ca6575-1b98-4426-9b65-70e5689e9a1f" name="Default Changelist" comment="" />
+      <created>1610307773635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610307773635</updated>
+      <workItem from="1610307774832" duration="33000" />
+      <workItem from="1610307826612" duration="1738000" />
+      <workItem from="1610311922247" duration="6704000" />
+      <workItem from="1610318737859" duration="591000" />
+      <workItem from="1610490441408" duration="8534000" />
+      <workItem from="1610580356746" duration="3730000" />
+      <workItem from="1610645266083" duration="10884000" />
+      <workItem from="1610664730233" duration="3304000" />
+      <workItem from="1610732781893" duration="3662000" />
+      <workItem from="1610739048402" duration="4506000" />
+      <workItem from="1610746330274" duration="6690000" />
+      <workItem from="1610789411885" duration="2581000" />
+      <workItem from="1610834351118" duration="4017000" />
+      <workItem from="1610842648348" duration="617000" />
+      <workItem from="1610909616254" duration="641000" />
+      <workItem from="1610920812136" duration="572000" />
+      <workItem from="1611003408594" duration="1780000" />
+      <workItem from="1611008030186" duration="100000" />
+      <workItem from="1611008284261" duration="142000" />
+      <workItem from="1611138597776" duration="3805000" />
+      <workItem from="1611142430516" duration="446000" />
+      <workItem from="1611242054201" duration="1290000" />
+    </task>
+    <task id="LOCAL-00001" summary="Poprawa błędu związana z czysto teoretyczną możliwością niezwrócenia żadnej wartości przez metodę.">
+      <created>1610308960685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610308960685</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cend i cbegin dla IPackageReceiver">
+      <created>1610313803708</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610313803708</updated>
+    </task>
+    <task id="LOCAL-00003" summary="load_factory_structure, niedokończone">
+      <created>1610499221463</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610499221463</updated>
+    </task>
+    <task id="LOCAL-00004" summary="load_factory_structure, w teorii powinno dziłać">
+      <created>1610584079231</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610584079231</updated>
+    </task>
+    <task id="LOCAL-00005" summary="save_factory_structure, połowa pracy">
+      <created>1610659421765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610659421765</updated>
+    </task>
+    <task id="LOCAL-00006" summary="save_factory_structure, napisany ale się nie kompiluje">
+      <created>1610668860222</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610668860222</updated>
+    </task>
+    <task id="LOCAL-00007" summary="IO, działają wszystkie testy poza &quot;LoadAndSaveTest&quot;">
+      <created>1610751223787</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610751223787</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Program przed commitem">
+      <created>1610842064545</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610842064545</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Test IO przechodzą">
+      <created>1610842937692</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610842937692</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Testy IO przechodzą">
+      <created>1610843250840</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610843250840</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Dodanie komentarza">
+      <created>1610921241905</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610921241905</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Commit przed ściągnięciem &quot;Simulation&quot;">
+      <created>1611008317755</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611008317755</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Dodanie sortowania dla magazynów w  &quot;save_factory_structure&quot;">
+      <created>1611139731266</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611139731266</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Dodanie sortowania  w  &quot;save_factory_structure&quot;">
+      <created>1611142473351</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611142473351</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Poprawa błędu związana z czysto teoretyczną możliwością niezwrócenia żadnej wartości przez metodę." />
+    <MESSAGE value="cend i cbegin dla IPackageReceiver" />
+    <MESSAGE value="load_factory_structure, niedokończone" />
+    <MESSAGE value="load_factory_structure, w teorii powinno dziłać" />
+    <MESSAGE value="save_factory_structure, połowa pracy" />
+    <MESSAGE value="save_factory_structure, napisany ale się nie kompiluje" />
+    <MESSAGE value="IO, działają wszystkie testy poza &quot;LoadAndSaveTest&quot;" />
+    <MESSAGE value="Program przed commitem" />
+    <MESSAGE value="Test IO przechodzą" />
+    <MESSAGE value="Testy IO przechodzą" />
+    <MESSAGE value="Dodanie komentarza" />
+    <MESSAGE value="Commit przed ściągnięciem &quot;Simulation&quot;" />
+    <MESSAGE value="Dodanie sortowania dla magazynów w  &quot;save_factory_structure&quot;" />
+    <MESSAGE value="Dodanie sortowania  w  &quot;save_factory_structure&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodanie sortowania  w  &quot;save_factory_structure&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeGoogleTestRunConfigurationType">
+        <watch expression="src_type" />
+        <watch expression="factory.Ramps.nodes.std::__cxx11::_List_base&lt;Ramp, std::allocator&lt;Ramp&gt; &gt;" language="ObjectiveC" />
+        <watch expression="output_lines._M_impl" />
+        <watch expression="first_worker_it" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
