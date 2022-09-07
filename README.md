@@ -1,2 +1,2 @@
 # Advanced-object-oriented-programming
-Repo for Advanced object-oriented programm class
+Repo for Advanced object-oriented programming class
